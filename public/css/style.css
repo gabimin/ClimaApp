@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  background: #00b5e2;
+  color: aliceblue;
+}
+
+h1 {
+  margin: 10% auto 10%;
+}
+
+label {
+  margin: 4% auto;
+  display: block;
+}
+
+input {
+  /* display: block; */
+  padding: 3%;
+  font-size: 2rem;
+  color: gray;
+  border-radius: 12px;
+  text-align: center;
+  width: 30%;
+  min-width: 16rem;
+  border: none;
+}
+
+button {
+  border-radius: 12px;
+  font-weight: bold;
+  display: block;
+  padding: 2%;
+  font-size: 1.2rem;
+  color: gray;
+  text-align: center;
+  margin: 4% auto;
+  width: 30%;
+  min-width: 10rem;
+  background-color: white;
+  border: none;
+}

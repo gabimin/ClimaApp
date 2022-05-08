@@ -1,2 +1,2 @@
 # ClimaApp
-Weather app in Spanish
+Weather app in Spanish language
